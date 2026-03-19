@@ -1,0 +1,6 @@
+*.zarr
+*.tif
+*.csv
+*.png
+plots/
+config.py
