@@ -4,3 +4,6 @@
 *.png
 plots/
 config.py
+napari_viewer.py
+notebooks/01_transcript_plots.ipynb
+notebooks/03_generate_scrnaseq_plots.ipynb
